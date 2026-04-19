@@ -1,0 +1,4 @@
+flask
+exifread
+gunicorn
+
